@@ -1,6 +1,6 @@
 # attendanceapp
 
-"A new Flutter project."
+"A Flutter project for New Employee++ of RO"
 
 ## Getting Started
 
